@@ -16,4 +16,4 @@ I love to contribute to open-source projects. You can find my contributions and 
 
 ## Contact
 
-Feel free to reach out to me via [email](mailto:06chaynes@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/christian-h-70923627/).
+Feel free to reach out to me via [email](mailto:christian@chaynes.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/christian-h-70923627/).
